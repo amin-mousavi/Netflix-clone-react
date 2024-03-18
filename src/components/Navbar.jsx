@@ -7,8 +7,8 @@ const Navbar = () => {
         Netflix
       </h1>
       <div>
-        <button className="text-white pr-4">Sign In</button>
-        <button className="bg-red-600 px-6 py-2 rounded cursor-pointer text-white">
+        <button className="text-white px-6 py-2">Sign In</button>
+        <button className="bg-red-600 px-6 py-2 rounded text-white">
           Sign Up
         </button>
       </div>

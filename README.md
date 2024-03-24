@@ -1,8 +1,28 @@
-# React + Vite
+# Netflix clone app by React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<a href="">clone live demo</a>
 
-Currently, two official plugins are available:
+It allows users to see the movies based on popularity, trending, etc
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features:
+
+---
+
+##### Here's features included in this project
+
+- Show the list of movies
+- Grouping movies
+- Users authentication
+- Users can select favorite movies and add them to the account
+
+### Technologies Used:
+
+---
+
+1. React.js
+2. Vite dev tool
+3. TailwindCSS
+4. Fetching movies information from API's by axios
+5. Use firebase authentication system for users
+
+---
